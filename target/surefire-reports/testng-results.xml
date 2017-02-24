@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Documentation.SeleniumHomepage.WebDriverDocumentationTest" duration-ms="40861" started-at="2017-02-15T06:11:36Z" finished-at="2017-02-15T06:12:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40861" started-at="2017-02-15T06:11:36Z" finished-at="2017-02-15T06:12:17Z">
+      <class name="Documentation.SeleniumHomepage.WebDriverDocumentationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Documentation.SeleniumHomepage.WebDriverDocumentationTest@1a407d53]" name="setup" is-config="true" duration-ms="10253" started-at="2017-02-15T09:11:36Z" finished-at="2017-02-15T09:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:Documentation.SeleniumHomepage.WebDriverDocumentationTest@1a407d53]" name="verifyPageTitle" duration-ms="28151" started-at="2017-02-15T09:11:46Z" finished-at="2017-02-15T09:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Documentation.SeleniumHomepage.WebDriverDocumentationTest@1a407d53]" name="tearDown" is-config="true" duration-ms="2361" started-at="2017-02-15T09:12:14Z" finished-at="2017-02-15T09:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Documentation.SeleniumHomepage.WebDriverDocumentationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Documentation.SeleniumHomepage.WebDriverDocumentationTest -->
+</testng-results>
